@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Template
+build_property.RootNamespace = Template
+build_property.ProjectDir = D:\WorkPlace\C-Sharp\Working\Template\Template\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\WorkPlace\C-Sharp\Working\Template\Template
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Charts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Forms/CustomComponents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQ3VzdG9tQ29tcG9uZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Forms/FormComponents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRm9ybUNvbXBvbmVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Forms/FormNotifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRm9ybU5vdGlmaWNhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Forms/FormSamples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRm9ybVNhbXBsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/Blank.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQmxhbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/Calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQ2FsZW5kYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcSW52b2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/Lockscreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTG9ja3NjcmVlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/Mailbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTWFpbGJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Pages/UserPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVXNlclBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Tables/BasicTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXEJhc2ljVGFibGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Tables/DataTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXERhdGFUYWJsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/UIElement/BootstrapElements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50XEJvb3RzdHJhcEVsZW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/UIElement/Cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50XENhcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/UIElement/FontIcons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50XEZvbnRJY29ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/UIElement/Widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50XFdpZGdldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkPlace/C-Sharp/Working/Template/Template/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dqofgvy3no
