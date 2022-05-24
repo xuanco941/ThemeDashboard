@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EGx8ip6m3dk3Bwx5Et7j/vg9PCRH3vUgXDI29MIA+A8=",
+  "Hash": "PLqMYD4quIsmERjpIoMPxc4VIyWnrfb7NZbZcdvWybo=",
   "Source": "Template",
   "BasePath": "_content/Template",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\WorkPlace\\C-Sharp\\Working\\Template\\Template\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Template.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\WorkPlace\\C-Sharp\\Working\\Template\\Template\\wwwroot\\css\\font_awesome_min.css",
+      "SourceId": "Template",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkPlace\\C-Sharp\\Working\\Template\\Template\\wwwroot\\",
+      "BasePath": "_content/Template",
+      "RelativePath": "css/font_awesome_min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\font_awesome_min.css"
     },
     {
       "Identity": "D:\\WorkPlace\\C-Sharp\\Working\\Template\\Template\\wwwroot\\css\\main.css",
